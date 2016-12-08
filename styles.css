@@ -1,0 +1,41 @@
+h1,
+h2 {
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+    color: #F57C00;
+    font-size: 3em;
+}
+
+nav {
+    text-align: center;
+    margin: 15px;
+}
+
+nav .btn-primary {
+    color: black;
+    background: #EFEFEF;
+    padding: 5px 10px;
+    border-radius: 10px;
+    margin: -30px 15px 20px 15px;
+}
+
+.container-fluid {
+    background: #F57C00;
+    color: white;
+    padding-bottom: 1em;
+}
+
+body{
+    background-color: #EFEFEF;
+}
+
+.progress-bar{
+    background: #F57C00;
+}
+
+footer{
+    text-align: center;
+}
